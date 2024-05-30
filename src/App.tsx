@@ -35,7 +35,7 @@ const App = () => {
             transition={{ duration: 0.5, delay: 0.6 }}
           >
             <p className="text-neutral-100 text-center px-4">
-              My skills include HTML, CSS, JavaScript, React, and Node.js. I enjoy problem-solving and bringing ideas to life.
+              My skills include HTML, CSS, JavaScript, React, Next.js and Node.js. I enjoy problem-solving and bringing ideas to life.
             </p>
           </motion.div>
         </div>
